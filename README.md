@@ -1,0 +1,2 @@
+# Ethereum_wallet
+Through this project a student get to know more about the use of solidity smart contract and know in a descriptive way that how a ethereum smart contract wrote and merge it with the react JS  and more proficient to write their own advance policies in the contract and at last i have connect it with the etherscan.io to track the transaction history of the platform with a input message.
